@@ -1,5 +1,10 @@
 # 🦐 claw-lark-cards
 
+> [!WARNING]
+> **本仓库已废弃并归档** — 已合并入 🍤 [claw-fry-cards](https://github.com/techysy/claw-fry-cards) 并作为 **claw-fry-cards 2.0** 发布。
+> 迁移说明：插件 id 由 `openclaw-lark` 更名为 `claw-fry-cards`，配置键 `plugins.entries.openclaw-lark` 改为 `plugins.entries.claw-fry-cards`（`channels.feishu` 不变）。
+> 需要 1.0 伴侣插件形态（钩子观测、不替换官方通道）请用 claw-fry-cards 的 `v1.0.0` 标签。
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-%E2%89%A52026.8.1-2463eb)](https://openclaw.ai)
 [![Node](https://img.shields.io/badge/Node-%E2%89%A522-blue)](https://nodejs.org/)
